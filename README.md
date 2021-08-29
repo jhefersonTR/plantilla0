@@ -1,1 +1,1 @@
-# plantilla0 de proyecto de react natoive
+# plantilla de proyecto de react natoive
